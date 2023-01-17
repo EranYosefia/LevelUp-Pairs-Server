@@ -54,6 +54,11 @@ app.get('/code', (req, res) => {
         res.status(409).send({'error': "Name not found"});
         return res;
     }
+    
+    if(!names[fullName].attendance){
+        res.status(409).send({'error': "You must register first to receive the code"});
+        return res;
+    }
 
     if(code != names[fullName].code){
         res.status(409).send({'error': "The code is incorrect"});
