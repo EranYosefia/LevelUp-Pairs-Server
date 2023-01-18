@@ -12,89 +12,89 @@ names = {
     'Adi Elron': {
         attendance: false,
         code: '5e895f892rj',
-        partner: 'Ohad Segal'
+        partner: 'Dor Oren'
     },
     'Amit Eilam': {
         attendance: false,
         code: '5e895f892ro',
-        partner: 'Ohad Segal'
+        partner: 'Stav Cohen'
     },
     'Assaf Gofer': {
         attendance: false,
         code: '5e895f892io',
-        partner: 'Ohad Segal'
+        partner: 'Ron Hachmon'
     },
     'Ben Cohen': {
         attendance: false,
         code: '5e895f892re',
-        partner: 'Ohad Segal'
+        partner: 'Ofri Zadok'
     },
     'Benjamin Harrosh': {
         attendance: false,
         code: '5e895f892hg',
-        partner: 'Ohad Segal'
+        partner: 'Tomer Klein'
     },
     'Dana Torgo': {
         attendance: false,
         code: '5e895f892hy',
-        partner: 'Ohad Segal'
+        partner: 'Idan Zimi'
     },
     'Dor Oren': {
         attendance: false,
         code: '5e895f892qw',
-        partner: 'Ohad Segal'
+        partner: 'Adi Elron'
     },
     'Eden Azulay': {
         attendance: false,
         code: '5e895f892er',
-        partner: 'Ohad Segal'
+        partner: 'Nave Maor'
     },
     'Gal Baron': {
         attendance: false,
         code: '5e895f892tl',
-        partner: 'Ohad Segal'
+        partner: 'Hen Sinai'
     },
     'Hen Sinai': {
         attendance: false,
         code: '5e895f892zx',
-        partner: 'Ohad Segal'
+        partner: 'Gal Baron'
     },
     'Ofri Zadok': {
         attendance: false,
         code: '5e895f892xc',
-        partner: 'Ohad Segal'
+        partner: 'Ben Cohen'
     },
     'Ron Hachmon': {
         attendance: false,
         code: '5e895f892cv',
-        partner: 'Ohad Segal'
+        partner: 'Assaf Gofer'
     },
     'Snir Pinievsky': {
         attendance: false,
         code: '5e895f892vb',
-        partner: 'Ohad Segal'
+        partner: 'Adi Rozenberg'
     },
     'Stav Cohen': {
         attendance: false,
         code: '5e895f892bn',
-        partner: 'Ohad Segal'
+        partner: 'Amit Eilam'
     },
     'Tal Birs': {
         attendance: false,
         code: '5e895f892az',
-        partner: 'Ohad Segal'
+        partner: 'Idan Cohen, Lir Mimrod'
     },
     'Tomer Klein': {
         attendance: false,
         code: '5e895f892am',
-        partner: 'Ohad Segal'
+        partner: 'Benjamin Harrosh'
     },
     'Yuval Reish': {
         attendance: false,
         code: '5e895f892ap',
-        partner: 'Ohad Segal'
+        partner: 'Ido Yekutiel'
     },
-    'Ido Yekutiel': {
+    'Yuval Reish': {
         attendance: false,
         code: '5e895f892up',
         partner: 'Ohad Segal'
@@ -102,27 +102,27 @@ names = {
     'Lir Mimrod': {
         attendance: false,
         code: '5e895f892pf',
-        partner: 'Ohad Segal'
+        partner: 'Idan Cohen, Tal Birs'
     },
     'Nave Maor': {
         attendance: false,
         code: '5e895f892pz',
-        partner: 'Ohad Segal'
+        partner: 'Eden Azoulay'
     },
     'Idan Zimi': {
         attendance: false,
         code: '5e895f892mz',
-        partner: 'Ohad Segal'
+        partner: 'Dana Torgo'
     },
     'Idan Cohen': {
         attendance: false,
         code: '5e895f892sp',
-        partner: 'Ohad Segal'
+        partner: 'Tal Birs, Lir Mimrod'
     },
     'Adi Rozenberg': {
         attendance: false,
         code: '5e895f892zi',
-        partner: 'Ohad Segal'
+        partner: 'Snir Pinievsky'
     },
 }
 
